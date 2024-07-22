@@ -4,7 +4,6 @@ project(visualodometry)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-# Set the path to matplotlib-cpp header
 # set(MATPLOTLIB_CPP_INCLUDE_DIR "../matplotlib-cpp")
 
 find_package(OpenCV REQUIRED)
